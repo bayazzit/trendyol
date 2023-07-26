@@ -12,4 +12,4 @@ Start Browser Test
     Maximize Browser Window
 
 Finish Browser Test
-    Close All Browsers
+    Close All Browsers  #test
